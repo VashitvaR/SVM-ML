@@ -1,0 +1,4 @@
+Soft margin SVM-:
+    sign(W^t+b ) is used for classfication
+    max the minimum distance form hyperplane obtained .
+    
