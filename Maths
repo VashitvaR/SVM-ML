@@ -1,4 +1,9 @@
 Soft margin SVM-:
     sign(W^t+b ) is used for classfication
     max the minimum distance form hyperplane obtained .
+    classfication+margin is the chcek on testing data.
+    the algo -->overfitting problem.
+    final result->||w|| norm must be maxi.
+    
+    
     
